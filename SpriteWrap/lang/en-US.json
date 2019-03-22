@@ -1,0 +1,23 @@
+{
+	"languageTag": "en-US",
+	"fileDescription": "Strings for SpriteWrap.",
+	"text": {
+		"effects": {
+			"spritewrap": {
+				"name": "SpriteWrap",
+				"description": "Wrap a sprites uv coordinates",
+				"help-url": "",
+				"parameters": {
+					"offsetx": {
+						"name": "offsetX",
+						"desc": "Horizontal Offset Value"
+					},
+					"offsety": {
+						"name": "offsetY",
+						"desc": "Vertical Offset Value"
+					}
+				}
+			}
+		}
+	}
+}
